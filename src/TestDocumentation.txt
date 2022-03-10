@@ -1,0 +1,5 @@
+- Error si se proporciona un número negativo
+- Comprobación caso base con 0
+- Comprobación caso base con 1
+- Comprobación resultado válido 2
+- Comprobación resultado válido 5
